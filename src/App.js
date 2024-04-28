@@ -1,5 +1,5 @@
-import './index.css';
-import './App.css';
+import "./index.css";
+
 const initialFriends = [
   {
     id: 118836,
@@ -22,10 +22,7 @@ const initialFriends = [
 ];
 
 function App() {
-  
-  return (
-    
-  );
+  return <div>Hello</div>;
 }
 
 export default App;
